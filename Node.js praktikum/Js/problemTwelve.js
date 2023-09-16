@@ -9,4 +9,4 @@ function arrayCount(list, n){
 
 let list = [4, 8, 4, 6, 44, 4, 78, 6]
 let n = 4;
-console.log(arrayCount(list, n));
+console.log(`Buyerda ${n}, ${arrayCount(list, n)} ta bor`);
