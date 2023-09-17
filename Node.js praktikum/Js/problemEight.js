@@ -1,6 +1,6 @@
 // N8
 function numberLength(num){
-    return `${num}`.length
+    return num.toString().length
 }
 
 a = 1567;

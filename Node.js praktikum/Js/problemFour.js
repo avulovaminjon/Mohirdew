@@ -1,7 +1,7 @@
 // N4
 
 function thighLength(num){
-    return `${num}`.length;
+    return num.toString().length;
 }
 
 let a = 59;

@@ -1,7 +1,7 @@
 // N9 
 
 function cheakPalindrom(num){
-    let lengthNumber = `${num}`.length;
+    let lengthNumber =num.toString().length;
     let copyNumber = num;
     let inverseNumber = 0;
     for(let i = 0; i < lengthNumber; i++){
